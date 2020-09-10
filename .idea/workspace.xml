@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39ab5d30-a40f-4f17-8847-b2d812882de2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/adlerka-pfg.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +57,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599757633221</updated>
-      <workItem from="1599757634476" duration="37000" />
+      <workItem from="1599757634476" duration="489000" />
     </task>
+    <task id="LOCAL-00001" summary="+ hello world &amp; + project files">
+      <created>1599757900351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599757900351</updated>
+    </task>
+    <task id="LOCAL-00002" summary="+ test file">
+      <created>1599757926024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599757926024</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +92,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="+ hello world &amp; + project files" />
+    <MESSAGE value="+ test file" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ test file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="130" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1599757932628">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="278" y="130" width="800" height="534" key="Vcs.Push.Dialog.v2/0.28.1366.740@0.28.1366.740" timestamp="1599757932628" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599757930280">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1599757930280" />
   </component>
 </project>
