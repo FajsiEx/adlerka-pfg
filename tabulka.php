@@ -23,7 +23,3 @@ $rozvrh[2][1] = "PFG";
     </tr>
     <? endforeach; ?>
 </table>
-
-<br>
-
-<table></table>
