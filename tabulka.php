@@ -68,9 +68,6 @@ if (mysqli_num_rows($result) > 0) {
     </table>
 
 <?php
-echo "<pre>";
-var_dump($rozvrh);
-
 $sql = "SELECT trieda FROM rozvrh GROUP BY trieda ORDER BY trieda";
 $result = mysqli_query($conn, $sql);
 
